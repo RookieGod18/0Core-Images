@@ -1,2 +1,4 @@
 # 0Core-Images
 Images for the spigot plugin 0Core - https://www.spigotmc.org/resources/0core-by-omega-plugins.140805/
+
+PLEASE NOTE SOME IMAGES HERE MAY NOT BE THE RIGHT IMAGE SO PLEASE CHECK THE LINKS ON THE SPIGOT PAGE FOR THE RIGHT IMAGES!
